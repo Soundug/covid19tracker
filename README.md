@@ -1,7 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Screenshot of Covid19 Tracker](covid19tracker/src/Screenshot of tracker page.png)
-
 ## Available Scripts
 
 In the project directory, you can run:

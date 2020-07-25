@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Covid19 Tracker screenshot](src/Screenshot of tracker page.png)
+![Covid19 Tracker screenshot](src/images/Screenshot of tracker page.png)
 
 ## Available Scripts
 
